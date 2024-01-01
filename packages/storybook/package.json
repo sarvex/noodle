@@ -20,7 +20,7 @@
     "@noodle/storybook-config": "workspace:^",
     "@noodle/tailwind": "workspace:^",
     "@noodle/tsconfig": "workspace:^",
-    "@storybook/addon-a11y": "^7.0.26",
+    "@storybook/addon-a11y": "^7.6.6",
     "@storybook/addon-essentials": "^7.0.26",
     "@storybook/addon-interactions": "^7.0.26",
     "@storybook/addon-links": "^7.0.26",
